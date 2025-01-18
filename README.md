@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @JudeAnthone
-- 👀 I’m interested in ...NOTHING
-- 🌱 I’m currently learning ... CODING PH CLONE
-- 📫 How to reach me ... EPBI.COM
-- 😄 Pronouns: ... EH/MIH
-- ⚡ Fun fact: WALA
-
+Second Year Computer Science Student with a high hope in landing a job as a developer
