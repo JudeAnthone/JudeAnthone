@@ -1,11 +1,11 @@
 ## *HOLA!  I'm Jude Anthone R. Duarte, a Computer Science student passionate about full-stack development, problem-solving, and turning ideas into real-world applications.*
 
-🎓 3rd Year Bachelor of Science in Computer Science<br/>
+🎓 4th Year Bachelor of Science in Computer Science<br/>
 📍 Eulogio "Amang" Rodriguez Institute of Science and Technology<br/>
 
  *How to reach me:*  
 - 📧 Email: duartejudeanthone@gmail.com  <br/>
-- 🌐 Portfolio: IN THE PROCESS OF MAKING MY 2ND VERSION!!!<br/>
+- 🌐 Portfolio: https://jude-anthone-duarte.vercel.app/ <br/>
 - 💼 LinkedIn: [linkedin.com/Jude Anthone Duarte](https://www.linkedin.com/in/jude-anthone-duarte-750288326/)<br/>
 - 📸 Instagram: [@jardurf] (https://www.instagram.com/jardurf/)<br/>
 
