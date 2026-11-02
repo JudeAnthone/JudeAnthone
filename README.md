@@ -6,15 +6,15 @@ I'm a **4th Year Computer** Science student interested in full-stack development
 
 ## What I Work With
 
-- **Full-Stack Development** — React, TypeScript, JavaScript, Node.js, Express.js
-- **Backend Development** — REST APIs, PostgreSQL, Authentication & Authorization
-- **AI & Machine Learning** — Python, PyTorch, Scikit-Learn, Stable-Baselines3
-- **Workflow Automation** — n8n, Webhooks, API Integrations, AI Workflows
-- **Tools & Infrastructure** — Git, GitHub, Docker, Postman, VS Code
+- **Full-Stack Development** - React, TypeScript, JavaScript, Node.js, Express.js
+- **Backend Development** - REST APIs, PostgreSQL, Authentication & Authorization
+- **AI & Machine Learning** - Python, PyTorch, Scikit-Learn, Stable-Baselines3
+- **Workflow Automation** - n8n, Webhooks, API Integrations, AI Workflows
+- **Tools & Infrastructure** - Git, GitHub, Docker, Postman, VS Code
 
 ## Connect With Me
 - 📧 **Email:** duartejudeanthone@gmail.com
-- 🌐 **Portfolio:** [judeduarte.com](https://jude-anthone-duarte.vercel.app/)
+- 🌐 **Portfolio:** [judeduarte.com](https://www.judeduarte.dev/)
 - 💼 **LinkedIn:** [Jude Anthone Duarte](https://www.linkedin.com/in/jude-anthone-duarte28/)
 - 📸 **Instagram:** [@jardurf](https://www.instagram.com/jardurf)
 
